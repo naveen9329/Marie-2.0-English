@@ -19,8 +19,8 @@ from tg_bot.modules.helper_funcs.misc import paginate_modules
 
 PM_START_TEXT = """
 
-Hello {}, Iam a bot and my name is {}😎 Im a group manager bot maintained by  [RoHiTH reDDY](tg://user?id={}).
-No use in messaging me here am available on @BTECHTHOPULU
+Hello {}, Iam a bot and my name is {}😎 Im a group manager bot maintained by  [Naveen kumar](tg://user?id={}).
+No use in messaging me here am available on @telugu_dubbed_moviess
 **U r not able to do any thing in this so be silent.**
 
 HELP_STRINGS = """
