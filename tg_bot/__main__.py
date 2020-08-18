@@ -23,7 +23,7 @@ hoi {}, my name is {}!
 im a group manager bot maintained by  [Anonymous](tg://user?id={}).
 
 
-**So please don't try to message me because I am not vijay deverkonda./n So if u message also I won't respond**
+**So please don't try to message me because I am not vijay deverkonda.So if u message also I won't respond**
 
 """
 
